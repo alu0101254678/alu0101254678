@@ -1,13 +1,26 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 <p align="center">
-  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
 </p>
 
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+
+<p align="center">
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/edisonlee55">Twitter</a></strong> |
+  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
+  <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
+</p>
+
+<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+
 <!--
-**kittinan/kittinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
