@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://github.com/alu0101254678"><img src="./Professortocat_V2.PNG" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
+<h1 align="center">Hi, Yago Pérez Molanes</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
