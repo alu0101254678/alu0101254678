@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/alu0101254678"><img src="./Octocat.jpg" alt="Banner"></a>
+  <a href="https://github.com/alu0101254678"><img src="./NUX_Octodex.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm Yago Pérez Molanes</a>!</h1>
 <h1 align="center">Welcome to my ✨ _special_ ✨ GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=alu0101254678&hide_border=true&show_icons=true" alt="alu0101254678's github stats"></a>
+  <a href="https://github.com/alu0101254678"><img src="https://github-readme-stats.vercel.app/api?username=alu0101254678&hide_border=true&show_icons=true" alt="alu0101254678's github stats"></a>
 </p>
 
 <p align="center">
