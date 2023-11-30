@@ -2,25 +2,22 @@
   <a href="https://github.com/alu0101254678"><img src="./Octocat.jpg" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, Yago Pérez Molanes</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center">Hi, I'm Yago Pérez Molanes</a>!</h1>
+<h1 align="center">Welcome to my ✨ _special_ ✨ GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=alu0101254678&hide_border=true&show_icons=true" alt="alu0101254678's github stats"></a>
 </p>
 
 <p align="center">
-  <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/edisonlee55">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
+  <strong><a href="https://tfg-2023-yago-perez-molanes-flying-track.vercel.app/">Official Website</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/yago-p%C3%A9rez-molanes-198747261/">LinkedIn</a></strong> |
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">🌱 I’m currently learning Web Development</p>
 
 <!--
-**edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alu0101254678/alu0101254678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
