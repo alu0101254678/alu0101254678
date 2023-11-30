@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/alu0101254678"><img src="./Professortocat_v2.png" alt="Banner"></a>
+  <a href="https://github.com/alu0101254678"><img src="./Octocat.jpg" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, Yago Pérez Molanes</a>!</h1>
